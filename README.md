@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pebone.Pebone" />
+
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&lines=Hi%2C+my+name+is+Davi+Pereira+Cardoso+%F0%9F%91%8B" alt="Typing SVG"></a>
 </div>
