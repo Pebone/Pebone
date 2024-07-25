@@ -10,9 +10,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=21&duration=1500&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=1400&height=200&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Currently+pursuing+a+Postgraduate+Degree+in+Fullstack+Development+at+%40Rocketseat;%E2%A0%80;%F0%9F%A7%A0+I'm+currently+learning+Backend+Development...+%F0%9F%A4%93;%E2%A0%80;%F0%9F%93%AB+How+to+contact+me%3A+devpereiracardoso%40gmail.com;%E2%A0%80;%E2%9A%A1%EF%B8%8F+Fun+fact%3A+I+compose+and+produce+music%2C+it's+a+big+passion+of+mine!+%F0%9F%8E%B5" alt="Typing SVG"></a>
 
 ## 🤝 Let's Connect!
-<a href="https://instagram.com/davipereira00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/davipereiracardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWluc3RhZ3JhbSI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB4PSIyIiB5PSIyIiByeD0iNSIgcnk9IjUiLz48cGF0aCBkPSJNMTYgMTEuMzdBNCA0IDAgMSAxIDEyLjYzIDggNCA0IDAgMCAxIDE2IDExLjM3eiIvPjxsaW5lIHgxPSIxNy41IiB4Mj0iMTcuNTEiIHkxPSI2LjUiIHkyPSI2LjUiLz48L3N2Zz4=">
+<a href="https://instagram.com/davipereira00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/davipereiracardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div align="center">
   <a href="https://github.com/Pebone">
