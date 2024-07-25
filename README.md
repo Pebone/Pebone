@@ -7,12 +7,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=16&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&lines=Frontend+Developer+from+Cear%C3%A1%2C+Brazil!" alt="Typing SVG"></a>
 </div>
 <hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=21&duration=1500&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=1400&height=300&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Currently+pursuing+a+Postgraduate+Degree+in+Fullstack+Development+at+%40Rocketseat;%E2%A0%80;%F0%9F%A7%A0+I'm+currently+learning+Backend+Development...+%F0%9F%A4%93;%E2%A0%80;%F0%9F%93%AB+How+to+contact+me%3A+devpereiracardoso%40gmail.com;%E2%A0%80;%E2%9A%A1%EF%B8%8F+Fun+fact%3A+I+compose+and+produce+music%2C+it's+a+big+passion+of+mine!+%F0%9F%8E%B5" alt="Typing SVG"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=21&duration=1500&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=1400&height=200&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Currently+pursuing+a+Postgraduate+Degree+in+Fullstack+Development+at+%40Rocketseat;%E2%A0%80;%F0%9F%A7%A0+I'm+currently+learning+Backend+Development...+%F0%9F%A4%93;%E2%A0%80;%F0%9F%93%AB+How+to+contact+me%3A+devpereiracardoso%40gmail.com;%E2%A0%80;%E2%9A%A1%EF%B8%8F+Fun+fact%3A+I+compose+and+produce+music%2C+it's+a+big+passion+of+mine!+%F0%9F%8E%B5" alt="Typing SVG"></a>
 
 ## 🤝 Let's Connect!
-<a>
-
-</a>
+<a href="https://instagram.com/davipereira00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/davipereiracardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWluc3RhZ3JhbSI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB4PSIyIiB5PSIyIiByeD0iNSIgcnk9IjUiLz48cGF0aCBkPSJNMTYgMTEuMzdBNCA0IDAgMSAxIDEyLjYzIDggNCA0IDAgMCAxIDE2IDExLjM3eiIvPjxsaW5lIHgxPSIxNy41IiB4Mj0iMTcuNTEiIHkxPSI2LjUiIHkyPSI2LjUiLz48L3N2Zz4=">
 
 <div align="center">
   <a href="https://github.com/Pebone">
@@ -39,12 +39,6 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/davipereira00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:devpereiracardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/davipereiracardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/12144306707?si=4fc869d0c2a24d0a&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank">
  
   ![Snake animation](https://github.com/Pebone/Pebone/blob/output/github-contribution-grid-snake.svg)
  
