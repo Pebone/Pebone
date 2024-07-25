@@ -1,12 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pebone.Pebone" />
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&lines=Hi%2C+my+name+is+Davi+Pereira+Cardoso+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&lines=Hi%2C+my+name+is+Davi+Pereira+Cardoso+%F0%9F%91%8B" alt="Typing SVG"></a>
 </div>
+
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=16&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&lines=Frontend+Developer+from+Cear%C3%A1%2C+Brazil!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=16&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&lines=Frontend+Developer+from+Cear%C3%A1%2C+Brazil!" alt="Typing SVG"></a>
 </div>
 <hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=1500&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=1400&height=300&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Currently+pursuing+a+Postgraduate+Degree+in+Fullstack+Development+at+%40Rocketseat;%E2%A0%80;%F0%9F%A7%A0+I'm+currently+learning+Backend+Development...+%F0%9F%A4%93;%E2%A0%80;%F0%9F%93%AB+How+to+contact+me%3A+devpereiracardoso%40gmail.com;%E2%A0%80;%E2%9A%A1%EF%B8%8F+Fun+fact%3A+I+compose+and+produce+music%2C+it's+a+big+passion+of+mine!+%F0%9F%8E%B5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=1500&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=1400&height=300&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Currently+pursuing+a+Postgraduate+Degree+in+Fullstack+Development+at+%40Rocketseat;%E2%A0%80;%F0%9F%A7%A0+I'm+currently+learning+Backend+Development...+%F0%9F%A4%93;%E2%A0%80;%F0%9F%93%AB+How+to+contact+me%3A+devpereiracardoso%40gmail.com;%E2%A0%80;%E2%9A%A1%EF%B8%8F+Fun+fact%3A+I+compose+and+produce+music%2C+it's+a+big+passion+of+mine!+%F0%9F%8E%B5" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=1500&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=1400&height=300&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Currently+pursuing+a+Postgraduate+Degree+in+Fullstack+Development+at+%40Rocketseat;%E2%A0%80;%F0%9F%A7%A0+I'm+currently+learning+Backend+Development...+%F0%9F%A4%93;%E2%A0%80;%F0%9F%93%AB+How+to+contact+me%3A+devpereiracardoso%40gmail.com;%E2%A0%80;%E2%9A%A1%EF%B8%8F+Fun+fact%3A+I+compose+and+produce+music%2C+it's+a+big+passion+of+mine!+%F0%9F%8E%B5)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Pebone">
