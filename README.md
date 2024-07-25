@@ -14,8 +14,12 @@
 <a href="https://www.linkedin.com/in/davipereiracardoso/" target="_blank"><img height="24" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## 💻 Tech Stack
-<img height="100" width="700" src="https://skillicons.dev/icons?i=react,js,ts,jquery,html,css,sass,tailwind,bootstrap,figma,git,github,npm,svg,vite,vscode">
+<p>React, React Hooks, Context API, Javascript, Typescript, JQuery, CSS, SCSS, SASS,
+Styled-Components, TailwindCss, HTML, Material UI, Bootstrap, Ant Design, Figma, GIT,
+SCRUM, Responsive Design, Clean Code.
+</p>
 <!---
+<img height="100" width="700" src="https://skillicons.dev/icons?i=react,js,ts,jquery,html,css,sass,tailwind,bootstrap,figma,git,github,npm,svg,vite,vscode">
 <div style="display: inline_block">
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
