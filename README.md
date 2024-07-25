@@ -1,5 +1,5 @@
-## Olá, meu nome é Davi Pereira e eu amo desenvolvimento front-end!
-#### Hi, my name is Davi Pereira and I love front-end development! 
+## <div align="center">Olá, meu nome é Davi Pereira e eu amo desenvolvimento front-end!</div>
+#### <div align="center">Hi, my name is Davi Pereira and I love front-end development!</div>
 
 <div align="center">
   <a href="https://github.com/Pebone">
