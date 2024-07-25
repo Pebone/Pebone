@@ -9,6 +9,11 @@
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=21&duration=1500&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=1400&height=300&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Currently+pursuing+a+Postgraduate+Degree+in+Fullstack+Development+at+%40Rocketseat;%E2%A0%80;%F0%9F%A7%A0+I'm+currently+learning+Backend+Development...+%F0%9F%A4%93;%E2%A0%80;%F0%9F%93%AB+How+to+contact+me%3A+devpereiracardoso%40gmail.com;%E2%A0%80;%E2%9A%A1%EF%B8%8F+Fun+fact%3A+I+compose+and+produce+music%2C+it's+a+big+passion+of+mine!+%F0%9F%8E%B5" alt="Typing SVG"></a>
 
+## 🤝 Let's Connect!
+<a>
+
+</a>
+
 <div align="center">
   <a href="https://github.com/Pebone">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pebone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
