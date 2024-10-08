@@ -30,8 +30,9 @@
 </a>
 
 ## 🤝 Let's Connect!
-<a href="https://instagram.com/davipereira00" target="_blank"><img height="24" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/davipereiracardoso/" target="_blank"><img height="24" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+<!---
+<a href="https://instagram.com/davipereira00" target="_blank"><img height="24" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## 💻 Tech Stack
 <p>React, React Hooks, Context API, Javascript, Typescript, JQuery, CSS, SCSS, SASS,
